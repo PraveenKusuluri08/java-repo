@@ -82,4 +82,8 @@ static void ArmstrongNumber(int n){
     ArmstrongNumber(n);
     System.out.println("--------------------------");
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 503837cd8ba36b8f29088076892e577f4851ff04

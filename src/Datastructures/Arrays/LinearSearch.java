@@ -1,3 +1,4 @@
+package Datastructures.Arrays;
 import java.util.*;
 public class LinearSearch {
 
