@@ -1,7 +1,5 @@
 package methods;
 
-import java.util.*;
-
 class Cal {
   int n1, n2;
 
