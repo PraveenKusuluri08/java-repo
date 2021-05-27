@@ -18,7 +18,7 @@ public class VarArgsDemo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Value obj = new Value();
-		System.out.println(obj.add(12, 52, 3, 3, 5, 2, 4));
+		System.out.println(obj.add(12, 52, 3, 3, 5,12,100, 2, 4));
 
 	}
 

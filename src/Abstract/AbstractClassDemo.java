@@ -1,4 +1,4 @@
-package Abstract;
+ package Abstract;
 //if we create the class with object we cannot create the object of the class directly
 
 abstract class Human { //abstract class

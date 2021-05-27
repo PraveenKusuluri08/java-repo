@@ -17,7 +17,7 @@ public class TRYCATCH1 {
 				break;
 			}
 		} catch (Exception e) {
-			System.out.println("Exception" + e);
+			System.out.println("Exception    " + e);
 		}
 
 	}
