@@ -23,7 +23,7 @@ public class HashMapDemo {
 
 		Set<String> keys = phone.keySet();
 		for (String i : keys) {
-			System.err.println("the id is "+ i +phone.get(i));
+			System.out.println(i+" : " + phone.get(i));
 		}
 
 	}
