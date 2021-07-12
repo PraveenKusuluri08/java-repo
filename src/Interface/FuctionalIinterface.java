@@ -4,7 +4,7 @@ import java.util.*;
 @FunctionalInterface
 interface a{
 	void show();
-	
+	final String name="";
 }
 
 
